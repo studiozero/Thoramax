@@ -31,4 +31,4 @@ I'm intending to do this as a series of experiments, each one contributing to th
 
 ## Code stuff
 
-I'm going to be using [A-frame](aframe.io) as a jumping-off point. In my opinion
+I'm going to be using [A-frame](aframe.io) as a jumping-off point. In my opinion it's the certainly the quickest (if not best) way to get a Web VR project going.
