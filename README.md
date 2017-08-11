@@ -18,3 +18,7 @@ I realised we could extend the concept of VeRyMin to give back a synthersizer pe
 * I will document the process of building this. This is just the start.
 
 Let the aural torment begin! Head over to the site for [more info](https://studiozero.github.io/Thoramax/).
+
+## Getting started
+
+If you want to run locally, you'll need to install http-server from npm,
