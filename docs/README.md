@@ -27,4 +27,8 @@ Because I like the original [Theremin](https://en.wikipedia.org/wiki/Theremin), 
 
 Although this is a personal project, I want to get others involved. You can tweet me @toychicken, or raise issues on Github.
 
-I'm intending to do this as a series of experiments, each one contributing to the whole. As it gets a little closer to having something concrete, I'll start the process of making it
+I'm intending to do this as a series of experiments, each one contributing to the whole. As it gets a little closer to having something concrete, I'll start the process of making it into a coherent instrument.
+
+## Code stuff
+
+I'm going to be using [A-frame](aframe.io) as a jumping-off point. In my opinion
